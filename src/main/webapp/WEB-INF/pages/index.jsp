@@ -2,7 +2,6 @@
 <body>
 <h1 font>Maven + Spring MVC Web Project Example : version 6</h1>
 
-<h2> hiii......DevOps team</h2>
 <font color="red">This is new version</font>
  
 <h3>Message : ${message}</h3>
